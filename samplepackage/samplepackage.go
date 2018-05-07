@@ -3,5 +3,5 @@
 package samplepackage
 
 func GetBranch() {
-	return "master"
+	return "devel"
 }
