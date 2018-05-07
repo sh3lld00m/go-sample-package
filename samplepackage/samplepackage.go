@@ -2,6 +2,6 @@
 
 package samplepackage
 
-func GetBranch() {
+func GetBranch() string {
 	return "devel"
 }
